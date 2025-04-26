@@ -42,8 +42,7 @@
 ### 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roniosd&show_icons=true&locale=en&layout=compact" alt="roniosd" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roniosd&show_icons=true&locale=en" alt="roniosd" /></p>
-<p><img align="center" src="https://github.com/user-attachments/assets/2df90771-9d56-41fe-90f2-ee48ace9fcab
-" alt="roniosd" /></p>
+
 
 
 
