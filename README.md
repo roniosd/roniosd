@@ -1,4 +1,4 @@
-![logo](https://github.com/roniosd/roniosd/blob/main/logo.jpg)
+![logo](https://github.com/roniosd/roniosd/blob/main/logo.png)
 
 <h1 align="center">Hi 👋, I'm Roni Dev</h1>
 <h3 align="center">Crafting Modern and Scalable Web Solutions Using Advanced Technologies</h3>
